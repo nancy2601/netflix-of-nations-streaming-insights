@@ -1,0 +1,9 @@
+country_id,country_name,region,avg_income_usd,internet_penetration_pct
+1,India,Asia,420,48.7
+2,United States,North America,3500,91.2
+3,Brazil,South America,950,75.4
+4,Germany,Europe,3100,92.8
+5,Nigeria,Africa,250,36.9
+6,Japan,Asia,3400,94.5
+7,UK,Europe,3200,95.1
+8,Mexico,North America,850,72.3
