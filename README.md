@@ -42,24 +42,6 @@ To run the Jupyter Notebook locally, you’ll need:
 pip install pandas numpy sqlalchemy pymysql openpyxl seaborn matplotlib
 
 
-
----
-
-✅ **Why this works:**  
-- It’s clear — people know exactly which packages to install.  
-- Shows you can write reproducible, shareable code.  
-- Looks professional on GitHub.
-
----
-
-## 📌 Extra Tip  
-You can also add a `requirements.txt` file later if you want — but this snippet is enough for your portfolio!
-
----
-
-When done, say **“Requirements done ✅”** —  
-and I’ll craft your next section: your **Project Workflow / How to Run** instructions! 🚀
-
 ## 🔗 Project Workflow & How to Run
 
 1. **Database Setup:**  
